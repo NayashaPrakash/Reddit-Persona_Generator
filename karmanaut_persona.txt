@@ -1,0 +1,142 @@
+USER PERSONA: karmanaut
+==================================================
+
+DEMOGRAPHICS:
+--------------------
+Age Range: 25-45
+Location: Unknown
+Profession: Likely a professional, possibly in a field related to technology, project management, or moderation
+Education: College educated
+Relationship Status: Unknown
+Other: Moderator on Reddit, interested in history and politics, possibly plays board games like Diplomacy
+
+INTERESTS:
+--------------------
+• Reddit Moderation
+• Discussion and Debate
+• AskReddit
+• Serious Discussions
+• Hypothetical Scenarios
+• History
+• Board Games
+• Writing Prompts
+• Movies
+• Social Issues
+
+PERSONALITY TRAITS:
+--------------------
+• Curious
+• Analytical
+• Inquisitive
+• Serious
+• Helpful
+• Community-oriented
+• Practical
+• Introspective
+• Imaginative
+• Reflective
+• Organized
+• Rule-following
+• Thoughtful
+• Problem-solving
+• Observant
+
+COMMUNICATION STYLE:
+--------------------
+This user demonstrates a thoughtful and inquisitive communication style, frequently using the "Serious" tag on AskReddit to encourage focused and meaningful discussions. They often ask open-ended, exploratory questions that invite personal reflection and storytelling, while also showing an interest in problem-solving and understanding complex issues across diverse topics, from modding practices to global politics. Their posts are generally well-written and demonstrate a desire for genuine engagement and thoughtful responses.
+
+ACTIVITY PATTERNS:
+--------------------
+Most Active Hour: 23:00
+Most Active Day: Thursday
+Favorite Subreddits: AskReddit, announcements, OutOfTheLoop, SubredditDrama, IAmA
+Total Posts: 100
+Total Comments: 100
+
+GOALS & MOTIVATIONS:
+--------------------
+• Improving moderation tools and processes on Reddit.
+• Understanding human behavior and motivations.
+• Exploring hypothetical scenarios and thought experiments.
+• Seeking knowledge and diverse perspectives.
+• Understanding different points of view.
+• Helping others and making a positive impact.
+• Creating and engaging in interesting discussions.
+• Curiosity and a desire to learn new things.
+• Exploring creative writing and storytelling.
+• Understanding and respecting rules and guidelines.
+• Finding meaningful and interesting content.
+• Helping to create and maintain a positive online community.
+• Finding entertainment and humor.
+• Improving communication and collaboration.
+• Exploring personal values and beliefs.
+• Providing thoughtful responses to questions.
+• Organizing and facilitating community activities.
+• Appreciating different forms of art and entertainment.
+• Analyzing complex situations and finding solutions.
+• Reflecting on personal experiences and growth.
+
+PAIN POINTS:
+--------------------
+• Lack of moderation tools to track user history and deleted posts/comments
+• Difficulty defining and enforcing rules against self-promotion
+• Desire to have a significant positive impact on others' lives with minimal effort
+• Concern about overused elements in video games
+• Overrated tourist attractions
+• Difficulty learning a desired topic
+• Regret over past actions
+• Disagreements with parents (for high schoolers)
+• Concerns about raising obese children
+• Annoyance with overused elements in video games
+• Dealing with the consequences of mistakes at work
+• Navigating social faux pas in the internet age
+• Frustration with jokes and off-topic comments in serious discussion threads
+• Worry about inadvertently changing the past when time traveling
+• Dealing with local political issues
+• Regret over expensive mistakes
+• Dealing with difficult friends
+
+CITATIONS:
+--------------------
+
+DEMOGRAPHICS:
+1. https://www.reddit.com/r/ModSupport/comments/3d4f3z/request_give_us_some_way_to_see_the_moderation/ - [request] give us some way to see the moderation history of a user, including deleted posts it would...
+2. https://www.reddit.com/r/SubredditDrama/comments/2w8egi/uchristinehmcconnell_breaks_a_rule_in/ - /u/christinehmcconnell breaks a rule in /r/oldschoolcool; gives users an excuse to complain about he...
+3. https://www.reddit.com/r/AskReddit/comments/2uop7f/serious_what_is_the_absolute_best_thing_about/ - [serious] what is the absolute best thing about your life right now? anything...
+4. https://www.reddit.com/r/AskReddit/comments/2mkvfd/serious_what_is_the_most_important_thing_i_can_do/ - [serious] what is the most important thing i can do to positively impact another person's life, with...
+5. https://www.reddit.com/r/AskReddit/comments/2mllcz/serious_which_forgotten_entertainer_needs_to_make/ - [serious] which forgotten entertainer needs to make a comeback? actor, musician, whatever. ...
+
+INTERESTS:
+1. https://www.reddit.com/r/ModSupport/comments/3d4f3z/request_give_us_some_way_to_see_the_moderation/ - [request] give us some way to see the moderation history of a user, including deleted posts it would...
+2. https://www.reddit.com/r/SubredditDrama/comments/2w8egi/uchristinehmcconnell_breaks_a_rule_in/ - /u/christinehmcconnell breaks a rule in /r/oldschoolcool; gives users an excuse to complain about he...
+3. https://www.reddit.com/r/AskReddit/comments/2uop7f/serious_what_is_the_absolute_best_thing_about/ - [serious] what is the absolute best thing about your life right now? anything...
+4. https://www.reddit.com/r/AskReddit/comments/2mkvfd/serious_what_is_the_most_important_thing_i_can_do/ - [serious] what is the most important thing i can do to positively impact another person's life, with...
+5. https://www.reddit.com/r/AskReddit/comments/2mllcz/serious_which_forgotten_entertainer_needs_to_make/ - [serious] which forgotten entertainer needs to make a comeback? actor, musician, whatever. ...
+
+PERSONALITY_TRAITS:
+1. https://www.reddit.com/r/ModSupport/comments/3d4f3z/request_give_us_some_way_to_see_the_moderation/ - [request] give us some way to see the moderation history of a user, including deleted posts it would...
+2. https://www.reddit.com/r/SubredditDrama/comments/2w8egi/uchristinehmcconnell_breaks_a_rule_in/ - /u/christinehmcconnell breaks a rule in /r/oldschoolcool; gives users an excuse to complain about he...
+3. https://www.reddit.com/r/AskReddit/comments/2uop7f/serious_what_is_the_absolute_best_thing_about/ - [serious] what is the absolute best thing about your life right now? anything...
+4. https://www.reddit.com/r/AskReddit/comments/2mkvfd/serious_what_is_the_most_important_thing_i_can_do/ - [serious] what is the most important thing i can do to positively impact another person's life, with...
+5. https://www.reddit.com/r/AskReddit/comments/2mllcz/serious_which_forgotten_entertainer_needs_to_make/ - [serious] which forgotten entertainer needs to make a comeback? actor, musician, whatever. ...
+
+COMMUNICATION_STYLE:
+1. https://www.reddit.com/r/ModSupport/comments/3d4f3z/request_give_us_some_way_to_see_the_moderation/ - [request] give us some way to see the moderation history of a user, including deleted posts it would...
+2. https://www.reddit.com/r/SubredditDrama/comments/2w8egi/uchristinehmcconnell_breaks_a_rule_in/ - /u/christinehmcconnell breaks a rule in /r/oldschoolcool; gives users an excuse to complain about he...
+3. https://www.reddit.com/r/AskReddit/comments/2uop7f/serious_what_is_the_absolute_best_thing_about/ - [serious] what is the absolute best thing about your life right now? anything...
+4. https://www.reddit.com/r/AskReddit/comments/2mkvfd/serious_what_is_the_most_important_thing_i_can_do/ - [serious] what is the most important thing i can do to positively impact another person's life, with...
+5. https://www.reddit.com/r/AskReddit/comments/2mllcz/serious_which_forgotten_entertainer_needs_to_make/ - [serious] which forgotten entertainer needs to make a comeback? actor, musician, whatever. ...
+
+GOALS_MOTIVATIONS:
+1. https://www.reddit.com/r/ModSupport/comments/3d4f3z/request_give_us_some_way_to_see_the_moderation/ - [request] give us some way to see the moderation history of a user, including deleted posts it would...
+2. https://www.reddit.com/r/SubredditDrama/comments/2w8egi/uchristinehmcconnell_breaks_a_rule_in/ - /u/christinehmcconnell breaks a rule in /r/oldschoolcool; gives users an excuse to complain about he...
+3. https://www.reddit.com/r/AskReddit/comments/2uop7f/serious_what_is_the_absolute_best_thing_about/ - [serious] what is the absolute best thing about your life right now? anything...
+4. https://www.reddit.com/r/AskReddit/comments/2mkvfd/serious_what_is_the_most_important_thing_i_can_do/ - [serious] what is the most important thing i can do to positively impact another person's life, with...
+5. https://www.reddit.com/r/AskReddit/comments/2mllcz/serious_which_forgotten_entertainer_needs_to_make/ - [serious] which forgotten entertainer needs to make a comeback? actor, musician, whatever. ...
+
+PAIN_POINTS:
+1. https://www.reddit.com/r/ModSupport/comments/3d4f3z/request_give_us_some_way_to_see_the_moderation/ - [request] give us some way to see the moderation history of a user, including deleted posts it would...
+2. https://www.reddit.com/r/SubredditDrama/comments/2w8egi/uchristinehmcconnell_breaks_a_rule_in/ - /u/christinehmcconnell breaks a rule in /r/oldschoolcool; gives users an excuse to complain about he...
+3. https://www.reddit.com/r/AskReddit/comments/2uop7f/serious_what_is_the_absolute_best_thing_about/ - [serious] what is the absolute best thing about your life right now? anything...
+4. https://www.reddit.com/r/AskReddit/comments/2mkvfd/serious_what_is_the_most_important_thing_i_can_do/ - [serious] what is the most important thing i can do to positively impact another person's life, with...
+5. https://www.reddit.com/r/AskReddit/comments/2mllcz/serious_which_forgotten_entertainer_needs_to_make/ - [serious] which forgotten entertainer needs to make a comeback? actor, musician, whatever. ...

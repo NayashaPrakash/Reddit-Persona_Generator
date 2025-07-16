@@ -1,0 +1,129 @@
+USER PERSONA: qgyh2
+==================================================
+
+DEMOGRAPHICS:
+--------------------
+Age Range: Unknown
+Location: Unknown
+Profession: Moderator / Potentially unemployed due to health issues
+Education: Unknown
+Relationship Status: Unknown
+Other: Suffers from RSI and depression. Former active redditor and moderator. Creates 'TL;DR' summaries of reddit content.
+
+INTERESTS:
+--------------------
+• Reddit Moderation
+• TL;DR Summaries
+• Science
+• Today I Learned (TIL)
+• AskReddit Question Answering
+• TrueReddit Content Curation
+• Health (RSI, Depression)
+• Current Events
+• Technology
+• World News
+
+PERSONALITY TRAITS:
+--------------------
+• Apologetic
+• Community-oriented
+• Helpful
+• Practical
+• Concerned
+• Open
+• Self-aware
+• Empathetic
+• Analytical
+• Interested
+• Responsible
+• Organized
+
+COMMUNICATION STYLE:
+--------------------
+This user's communication style is generally formal and earnest, especially when discussing moderation or personal matters. They are thoughtful and apologetic when they feel they have fallen short, and they attempt to present ideas and suggestions in a clear and organized manner. They also demonstrate a sense of responsibility towards the Reddit community.
+
+ACTIVITY PATTERNS:
+--------------------
+Most Active Hour: 0:00
+Most Active Day: Friday
+Favorite Subreddits: tldr, self, australia, needamod, pics
+Total Posts: 100
+Total Comments: 100
+
+GOALS & MOTIVATIONS:
+--------------------
+• Improving Reddit's moderation system
+• Promoting fairness and equality among moderators
+• Finding volunteers to moderate subreddits
+• Helping to manage a network of subreddits
+• Providing information and summaries of interesting content (TL;DR)
+• Contributing to the Reddit community
+• Maintaining a sense of responsibility towards the subreddits they moderate
+• Recovering from health issues (RSI, depression) and getting life back on track
+• Seeking social connection and appreciation from the Reddit community
+• Expressing gratitude and apologizing for shortcomings
+• Maintaining a positive and helpful presence on Reddit
+• Sharing interesting and informative content with the community
+• Facilitating discussion and engagement through AskReddit questions
+
+PAIN POINTS:
+--------------------
+• Data privacy concerns regarding birthday collection
+• Difficulty sorting moderators in a subreddit sidebar
+• Desire for an improved comment viewing experience (e.g., top comments with collapsed replies)
+• Unfair moderator removal in a subreddit
+• Concerns about the current moderation system, particularly the power of the top moderator
+• Unequal power dynamics among moderators
+• Difficulty managing multiple subreddits and needing moderator assistance
+• Mod burnout and inability to respond to messages
+• Health issues impacting ability to moderate (RSI and depression)
+• Job loss contributing to overall stress
+• Difficulty of finding sustainable and affordable energy
+• Concerns about misleading information on food labels
+• Challenges with unpaid internships
+• Hostile environment in schools affecting boys negatively
+
+CITATIONS:
+--------------------
+
+DEMOGRAPHICS:
+1. https://www.reddit.com/r/HailCorporate/comments/3fq9ij/so_lets_conduct_a_survey_and_get_all_redditors_to/ - so, let's conduct a survey and get all redditors to fill in their birthdays... ...
+2. https://www.reddit.com/r/ideasfortheadmins/comments/2qqosc/option_to_sort_moderators_default_sort_based_on/ - option to sort moderators, default sort based on activity clarification: in the sidebar list...
+3. https://www.reddit.com/r/AskReddit/comments/2qqnek/reddit_if_you_could_send_something_to_yourself/ - reddit, if you could send something to yourself when you next dream what would it be? such that when...
+4. https://www.reddit.com/r/ideasfortheadmins/comments/2qqmwz/an_option_to_view_the_top_comments_in_any_post/ - an option to view the top comments in any post with comment replies collapsed. perhaps it could kick...
+5. https://www.reddit.com/r/australia/comments/2hvhao/sorry_raustralia/ - sorry, /r/australia things got a bit bad in moderation and some moderators were removed for no fault...
+
+INTERESTS:
+1. https://www.reddit.com/r/HailCorporate/comments/3fq9ij/so_lets_conduct_a_survey_and_get_all_redditors_to/ - so, let's conduct a survey and get all redditors to fill in their birthdays... ...
+2. https://www.reddit.com/r/ideasfortheadmins/comments/2qqosc/option_to_sort_moderators_default_sort_based_on/ - option to sort moderators, default sort based on activity clarification: in the sidebar list...
+3. https://www.reddit.com/r/AskReddit/comments/2qqnek/reddit_if_you_could_send_something_to_yourself/ - reddit, if you could send something to yourself when you next dream what would it be? such that when...
+4. https://www.reddit.com/r/ideasfortheadmins/comments/2qqmwz/an_option_to_view_the_top_comments_in_any_post/ - an option to view the top comments in any post with comment replies collapsed. perhaps it could kick...
+5. https://www.reddit.com/r/australia/comments/2hvhao/sorry_raustralia/ - sorry, /r/australia things got a bit bad in moderation and some moderators were removed for no fault...
+
+PERSONALITY_TRAITS:
+1. https://www.reddit.com/r/HailCorporate/comments/3fq9ij/so_lets_conduct_a_survey_and_get_all_redditors_to/ - so, let's conduct a survey and get all redditors to fill in their birthdays... ...
+2. https://www.reddit.com/r/ideasfortheadmins/comments/2qqosc/option_to_sort_moderators_default_sort_based_on/ - option to sort moderators, default sort based on activity clarification: in the sidebar list...
+3. https://www.reddit.com/r/AskReddit/comments/2qqnek/reddit_if_you_could_send_something_to_yourself/ - reddit, if you could send something to yourself when you next dream what would it be? such that when...
+4. https://www.reddit.com/r/ideasfortheadmins/comments/2qqmwz/an_option_to_view_the_top_comments_in_any_post/ - an option to view the top comments in any post with comment replies collapsed. perhaps it could kick...
+5. https://www.reddit.com/r/australia/comments/2hvhao/sorry_raustralia/ - sorry, /r/australia things got a bit bad in moderation and some moderators were removed for no fault...
+
+COMMUNICATION_STYLE:
+1. https://www.reddit.com/r/HailCorporate/comments/3fq9ij/so_lets_conduct_a_survey_and_get_all_redditors_to/ - so, let's conduct a survey and get all redditors to fill in their birthdays... ...
+2. https://www.reddit.com/r/ideasfortheadmins/comments/2qqosc/option_to_sort_moderators_default_sort_based_on/ - option to sort moderators, default sort based on activity clarification: in the sidebar list...
+3. https://www.reddit.com/r/AskReddit/comments/2qqnek/reddit_if_you_could_send_something_to_yourself/ - reddit, if you could send something to yourself when you next dream what would it be? such that when...
+4. https://www.reddit.com/r/ideasfortheadmins/comments/2qqmwz/an_option_to_view_the_top_comments_in_any_post/ - an option to view the top comments in any post with comment replies collapsed. perhaps it could kick...
+5. https://www.reddit.com/r/australia/comments/2hvhao/sorry_raustralia/ - sorry, /r/australia things got a bit bad in moderation and some moderators were removed for no fault...
+
+GOALS_MOTIVATIONS:
+1. https://www.reddit.com/r/HailCorporate/comments/3fq9ij/so_lets_conduct_a_survey_and_get_all_redditors_to/ - so, let's conduct a survey and get all redditors to fill in their birthdays... ...
+2. https://www.reddit.com/r/ideasfortheadmins/comments/2qqosc/option_to_sort_moderators_default_sort_based_on/ - option to sort moderators, default sort based on activity clarification: in the sidebar list...
+3. https://www.reddit.com/r/AskReddit/comments/2qqnek/reddit_if_you_could_send_something_to_yourself/ - reddit, if you could send something to yourself when you next dream what would it be? such that when...
+4. https://www.reddit.com/r/ideasfortheadmins/comments/2qqmwz/an_option_to_view_the_top_comments_in_any_post/ - an option to view the top comments in any post with comment replies collapsed. perhaps it could kick...
+5. https://www.reddit.com/r/australia/comments/2hvhao/sorry_raustralia/ - sorry, /r/australia things got a bit bad in moderation and some moderators were removed for no fault...
+
+PAIN_POINTS:
+1. https://www.reddit.com/r/HailCorporate/comments/3fq9ij/so_lets_conduct_a_survey_and_get_all_redditors_to/ - so, let's conduct a survey and get all redditors to fill in their birthdays... ...
+2. https://www.reddit.com/r/ideasfortheadmins/comments/2qqosc/option_to_sort_moderators_default_sort_based_on/ - option to sort moderators, default sort based on activity clarification: in the sidebar list...
+3. https://www.reddit.com/r/AskReddit/comments/2qqnek/reddit_if_you_could_send_something_to_yourself/ - reddit, if you could send something to yourself when you next dream what would it be? such that when...
+4. https://www.reddit.com/r/ideasfortheadmins/comments/2qqmwz/an_option_to_view_the_top_comments_in_any_post/ - an option to view the top comments in any post with comment replies collapsed. perhaps it could kick...
+5. https://www.reddit.com/r/australia/comments/2hvhao/sorry_raustralia/ - sorry, /r/australia things got a bit bad in moderation and some moderators were removed for no fault...
